@@ -2507,11 +2507,13 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     com.qualcomm.qti.gpudrivers.pineapple.api34 \
+    TouchService \
     WfdService \
     dpmserviceapp \
     WfdCommon \
     com.qti.dpmframework \
     dpmapi \
+    xiaomi-pencilengine-pad \
     android.hardware.drm-service.xml \
     android.hardware.security.keymint-service-qti.xml \
     bttpi-saidl.xml \
